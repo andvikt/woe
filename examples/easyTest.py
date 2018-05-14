@@ -2,7 +2,7 @@
 %load_ext autoreload
 %autoreload 1
 #%aimport woe2.ease
-from woe import ease as e
+from woe import ease
 
 
 #%%
